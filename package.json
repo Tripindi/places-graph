@@ -1,0 +1,29 @@
+{
+  "name": "places-graph",
+  "version": "1.0.0",
+  "description": "NodeJS module that makes it easy to use Facebook Places-Graph API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tripindi/places-graph.git"
+  },
+  "keywords": [
+    "facebook",
+    "places",
+    "api",
+    "graph",
+    "nodejs"
+  ],
+  "author": "Maxence Pastor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tripindi/places-graph/issues"
+  },
+  "homepage": "https://github.com/Tripindi/places-graph#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
